@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="greeting">
+        <item>בוקר טוב</item>
+        <item>צהריים טובים</item>
+        <item>ערב טוב</item>
+        <item>מה, לא יכול להירדם?</item>
+    </string-array>
+    <string name="no_internet">אין לך חיבור לאינטרנט</string>
+    <string name="scan_qr">סורק QR קוד</string>
+    <string name="scanning_cancelled">הסריקה בוטלה</string>
+    <string name="scan_or_code">סרוק קוד QR</string>
+    <string name="select_collection">בחר אוסף</string>
+    <string name="create_new_collection">ליצור אוסף חדש</string>
+    <string name="save_uncategorized">לשמור כלא מסווג</string>
+    <string name="save">שמור</string>
+    <string name="new_collection">אוסף חדש</string>
+    <string name="new_collection_empty">האוסף חדש ריק</string>
+    <string name="delete">למחוק</string>
+    <string name="share">לחלוק</string>
+    <string name="more">יותר</string>
+    <string name="collection">אוסף:</string>
+    <string name="all_collections">כל האוספים</string>
+    <string name="uncategorized">לא מסווג</string>
+    <string name="do_you_want_exit">האם אתה באמת רוצה לצאת מהאפליקציה?</string>
+    <string name="dont_exit">לא לצאת</string>
+    <string name="exit">לצאת</string>
+    <string name="change_category">להעביר לאסף אחר</string>
+
+</resources>

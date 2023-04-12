@@ -1,0 +1,28 @@
+<resources>
+    <string-array name="greeting">
+        <item>Доброе утро</item>
+        <item>Добрый день</item>
+        <item>Добрый вечер</item>
+        <item>Что не спится?</item>
+    </string-array>
+    <string name="no_internet">У вас нет подключения к интернету</string>
+    <string name="scan_qr">Сканирование QR-кода</string>
+    <string name="scanning_cancelled">Сканирование отменено</string>
+    <string name="scan_or_code">Просканировать QR-код</string>
+    <string name="select_collection">Выберите коллекцию</string>
+    <string name="create_new_collection">создать новую коллекцию</string>
+    <string name="save_uncategorized">сохранить без категории</string>
+    <string name="save">Сохранить</string>
+    <string name="new_collection">новая коллекция</string>
+    <string name="new_collection_empty">новая коллекция отсутствует</string>
+    <string name="delete">Удалить</string>
+    <string name="share">Поделиться</string>
+    <string name="more">Больше</string>
+    <string name="collection">Коллекция:</string>
+    <string name="all_collections">Все коллекции</string>
+    <string name="uncategorized">некатегоризированная</string>
+    <string name="do_you_want_exit">Вы действительно хотите выйти из приложения?</string>
+    <string name="dont_exit">Оставаться</string>
+    <string name="exit">Выйти</string>
+    <string name="change_category">Изменить коллекцию</string>
+</resources>

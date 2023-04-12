@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">My Links</string>
+    <string name="web_view_screen" translatable="false">web_view</string>
+    <string name="list_screen" translatable="false">list</string>
+    <string name="splash_screen" translatable="false">splash</string>
+    <string-array name="greeting">
+        <item>Good morning</item>
+        <item>Good day</item>
+        <item>Good evening</item>
+        <item>Can not sleep?</item>
+    </string-array>
+    <string name="no_internet">You don`t have connection to internet</string>
+    <string name="scan_qr">Scanning a QR code</string>
+    <string name="scanning_cancelled">Scanning is cancelled</string>
+    <string name="scan_or_code">Scan QR code</string>
+    <string name="select_collection">Select Collection</string>
+    <string name="create_new_collection">create new collection</string>
+    <string name="save_uncategorized">save as uncategorized</string>
+    <string name="save">Save</string>
+    <string name="new_collection">new collection</string>
+    <string name="new_collection_empty">new collection is empty</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="more">More</string>
+    <string name="collection">Collection:</string>
+    <string name="all_collections">All Collections</string>
+    <string name="uncategorized">uncategorized</string>
+    <string name="do_you_want_exit">Do you really want to exit the app?</string>
+    <string name="dont_exit">Don`t exit</string>
+    <string name="exit">Exit</string>
+    <string name="change_category">Change collection</string>
+
+</resources>
